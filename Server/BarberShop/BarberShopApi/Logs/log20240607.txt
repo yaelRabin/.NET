@@ -1,0 +1,7 @@
+2024-06-07 02:30:14.644 +03:00 [INF]  User 100 has logged in
+2024-06-07 02:30:33.488 +03:00 [INF]  user 100 added an appointment to 06/06/2024 23:30:25
+2024-06-07 03:16:57.000 +03:00 [INF]  User 100 has logged in
+2024-06-07 03:17:48.811 +03:00 [WRN]  user 100 try to edit  appointment that not exist
+2024-06-07 03:18:06.996 +03:00 [ERR]  EditAppointment process failed with error : The property 'Appointment.ArrivalTime' is part of a key and so cannot be modified or marked as modified. To change the principal of an existing entity with an identifying foreign key, first delete the dependent and invoke 'SaveChanges', and then associate the dependent with the new principal. 
+2024-06-07 03:18:59.339 +03:00 [INF] user logout process
+2024-06-07 03:19:31.459 +03:00 [INF]  User 100 has logged in

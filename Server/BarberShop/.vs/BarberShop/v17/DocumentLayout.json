@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|solutionrelative:barbershopapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7666DDC-60EC-4255-BB19-F65ED9D5DAF1}|BarberShopEntities\\BarberShopEntities.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopentities\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7666DDC-60EC-4255-BB19-F65ED9D5DAF1}|BarberShopEntities\\BarberShopEntities.csproj|solutionrelative:barbershopentities\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopapi\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|solutionrelative:barbershopapi\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94314315-26AF-4916-90DF-DA3CCB48BE27}|BerberShopBL\\BarberShopBL.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\berbershopbl\\services\\appointmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94314315-26AF-4916-90DF-DA3CCB48BE27}|BerberShopBL\\BarberShopBL.csproj|solutionrelative:berbershopbl\\services\\appointmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94314315-26AF-4916-90DF-DA3CCB48BE27}|BerberShopBL\\BarberShopBL.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\berbershopbl\\interfaces\\iappointmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94314315-26AF-4916-90DF-DA3CCB48BE27}|BerberShopBL\\BarberShopBL.csproj|solutionrelative:berbershopbl\\interfaces\\iappointmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A431C4B-F26D-4DAD-989D-F92E73A14F3D}|BerberShopDB\\BarberShopDB.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\berbershopdb\\services\\appointmentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A431C4B-F26D-4DAD-989D-F92E73A14F3D}|BerberShopDB\\BarberShopDB.csproj|solutionrelative:berbershopdb\\services\\appointmentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A431C4B-F26D-4DAD-989D-F92E73A14F3D}|BerberShopDB\\BarberShopDB.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\berbershopdb\\interfaces\\iappointmentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A431C4B-F26D-4DAD-989D-F92E73A14F3D}|BerberShopDB\\BarberShopDB.csproj|solutionrelative:berbershopdb\\interfaces\\iappointmentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopapi\\attributes\\validateappointmentownerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|solutionrelative:barbershopapi\\attributes\\validateappointmentownerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopapi\\attributes\\extractuserfromtokenattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|solutionrelative:barbershopapi\\attributes\\extractuserfromtokenattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A431C4B-F26D-4DAD-989D-F92E73A14F3D}|BerberShopDB\\BarberShopDB.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\berbershopdb\\services\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A431C4B-F26D-4DAD-989D-F92E73A14F3D}|BerberShopDB\\BarberShopDB.csproj|solutionrelative:berbershopdb\\services\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|solutionrelative:barbershopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7666DDC-60EC-4255-BB19-F65ED9D5DAF1}|BarberShopEntities\\BarberShopEntities.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopentities\\appointmentforresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7666DDC-60EC-4255-BB19-F65ED9D5DAF1}|BarberShopEntities\\BarberShopEntities.csproj|solutionrelative:barbershopentities\\appointmentforresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopapi\\logs\\log20240620.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|solutionrelative:barbershopapi\\logs\\log20240620.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7666DDC-60EC-4255-BB19-F65ED9D5DAF1}|BarberShopEntities\\BarberShopEntities.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopentities\\userforresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7666DDC-60EC-4255-BB19-F65ED9D5DAF1}|BarberShopEntities\\BarberShopEntities.csproj|solutionrelative:barbershopentities\\userforresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|solutionrelative:barbershopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94314315-26AF-4916-90DF-DA3CCB48BE27}|BerberShopBL\\BarberShopBL.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\berbershopbl\\services\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94314315-26AF-4916-90DF-DA3CCB48BE27}|BerberShopBL\\BarberShopBL.csproj|solutionrelative:berbershopbl\\services\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7666DDC-60EC-4255-BB19-F65ED9D5DAF1}|BarberShopEntities\\BarberShopEntities.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopentities\\appointmentwithuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7666DDC-60EC-4255-BB19-F65ED9D5DAF1}|BarberShopEntities\\BarberShopEntities.csproj|solutionrelative:barbershopentities\\appointmentwithuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopapi\\scaffoldcommand.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC939D93-FC08-42FB-B8FE-8304D1E5E67B}|BarberShopApi\\BarberShopApi.csproj|solutionrelative:barbershopapi\\scaffoldcommand.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7666DDC-60EC-4255-BB19-F65ED9D5DAF1}|BarberShopEntities\\BarberShopEntities.csproj|c:\\users\\yael\\desktop\\yael\\.net core\\barbershopproject\\server\\barbershop\\barbershopentities\\userforsignupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7666DDC-60EC-4255-BB19-F65ED9D5DAF1}|BarberShopEntities\\BarberShopEntities.csproj|solutionrelative:barbershopentities\\userforsignupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAppointmentBL.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BerberShopBL\\Interfaces\\IAppointmentBL.cs",
+              "RelativeDocumentMoniker": "BerberShopBL\\Interfaces\\IAppointmentBL.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BerberShopBL\\Interfaces\\IAppointmentBL.cs",
+              "RelativeToolTip": "BerberShopBL\\Interfaces\\IAppointmentBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:50:00.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "log20240620.txt",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\Logs\\log20240620.txt",
+              "RelativeDocumentMoniker": "BarberShopApi\\Logs\\log20240620.txt",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\Logs\\log20240620.txt",
+              "RelativeToolTip": "BarberShopApi\\Logs\\log20240620.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-19T23:02:51.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidateAppointmentOwnerAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\Attributes\\ValidateAppointmentOwnerAttribute.cs",
+              "RelativeDocumentMoniker": "BarberShopApi\\Attributes\\ValidateAppointmentOwnerAttribute.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\Attributes\\ValidateAppointmentOwnerAttribute.cs",
+              "RelativeToolTip": "BarberShopApi\\Attributes\\ValidateAppointmentOwnerAttribute.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvy0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:08:41.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BarberShopApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\appsettings.json",
+              "RelativeToolTip": "BarberShopApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T21:43:08.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAppointmentDB.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BerberShopDB\\Interfaces\\IAppointmentDB.cs",
+              "RelativeDocumentMoniker": "BerberShopDB\\Interfaces\\IAppointmentDB.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BerberShopDB\\Interfaces\\IAppointmentDB.cs",
+              "RelativeToolTip": "BerberShopDB\\Interfaces\\IAppointmentDB.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:22:18.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppointmentWithUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopEntities\\AppointmentWithUserDTO.cs",
+              "RelativeDocumentMoniker": "BarberShopEntities\\AppointmentWithUserDTO.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopEntities\\AppointmentWithUserDTO.cs",
+              "RelativeToolTip": "BarberShopEntities\\AppointmentWithUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:58:33.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScaffoldCommand.txt",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\ScaffoldCommand.txt",
+              "RelativeDocumentMoniker": "BarberShopApi\\ScaffoldCommand.txt",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\ScaffoldCommand.txt",
+              "RelativeToolTip": "BarberShopApi\\ScaffoldCommand.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-17T16:35:11.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentDB.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BerberShopDB\\Services\\AppointmentDB.cs",
+              "RelativeDocumentMoniker": "BerberShopDB\\Services\\AppointmentDB.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BerberShopDB\\Services\\AppointmentDB.cs",
+              "RelativeToolTip": "BerberShopDB\\Services\\AppointmentDB.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:20:39.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentBL.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BerberShopBL\\Services\\AppointmentBL.cs",
+              "RelativeDocumentMoniker": "BerberShopBL\\Services\\AppointmentBL.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BerberShopBL\\Services\\AppointmentBL.cs",
+              "RelativeToolTip": "BerberShopBL\\Services\\AppointmentBL.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAEwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:19:45.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentForResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopEntities\\AppointmentForResponseDTO.cs",
+              "RelativeDocumentMoniker": "BarberShopEntities\\AppointmentForResponseDTO.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopEntities\\AppointmentForResponseDTO.cs",
+              "RelativeToolTip": "BarberShopEntities\\AppointmentForResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:19:08.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\Program.cs",
+              "RelativeDocumentMoniker": "BarberShopApi\\Program.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\Program.cs",
+              "RelativeToolTip": "BarberShopApi\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:01:39.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserForResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopEntities\\UserForResponseDTO.cs",
+              "RelativeDocumentMoniker": "BarberShopEntities\\UserForResponseDTO.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopEntities\\UserForResponseDTO.cs",
+              "RelativeToolTip": "BarberShopEntities\\UserForResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:51:12.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExtractUserFromTokenAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\Attributes\\ExtractUserFromTokenAttribute.cs",
+              "RelativeDocumentMoniker": "BarberShopApi\\Attributes\\ExtractUserFromTokenAttribute.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\Attributes\\ExtractUserFromTokenAttribute.cs",
+              "RelativeToolTip": "BarberShopApi\\Attributes\\ExtractUserFromTokenAttribute.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIA5wBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:36:22.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "BarberShopApi\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "BarberShopApi\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:36:14.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserForLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopEntities\\UserForLoginDTO.cs",
+              "RelativeDocumentMoniker": "BarberShopEntities\\UserForLoginDTO.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopEntities\\UserForLoginDTO.cs",
+              "RelativeToolTip": "BarberShopEntities\\UserForLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:35:47.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDB.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BerberShopDB\\Services\\UserDB.cs",
+              "RelativeDocumentMoniker": "BerberShopDB\\Services\\UserDB.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BerberShopDB\\Services\\UserDB.cs",
+              "RelativeToolTip": "BerberShopDB\\Services\\UserDB.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAlwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:20:50.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserForSignUpDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopEntities\\UserForSignUpDTO.cs",
+              "RelativeDocumentMoniker": "BarberShopEntities\\UserForSignUpDTO.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopEntities\\UserForSignUpDTO.cs",
+              "RelativeToolTip": "BarberShopEntities\\UserForSignUpDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:13:53.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BerberShopBL\\Services\\UserBL.cs",
+              "RelativeDocumentMoniker": "BerberShopBL\\Services\\UserBL.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BerberShopBL\\Services\\UserBL.cs",
+              "RelativeToolTip": "BerberShopBL\\Services\\UserBL.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwFEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:13:08.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BarberShopApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\yael\\Desktop\\yael\\.Net Core\\BarberShopProject\\Server\\BarberShop\\BarberShopApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BarberShopApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:13:11.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+2024-06-18 00:31:54.596 +03:00 [WRN]  user Michal try to login with wrong password 
+2024-06-18 00:31:59.661 +03:00 [INF]  User 120 has logged in
+2024-06-18 00:32:44.679 +03:00 [ERR]  AddAppointment process failed with error : The added or subtracted value results in an un-representable DateTime. (Parameter 'value') 
+2024-06-18 01:52:37.287 +03:00 [INF]  User 120 has logged in
+2024-06-18 01:53:20.699 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 01:53:56.736 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 01:54:00.174 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 01:54:14.861 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 01:54:15.272 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 01:54:15.453 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 01:54:49.965 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 01:54:50.826 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 01:55:07.422 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 01:55:13.703 +03:00 [ERR] user 120 tried to schedule an appointmant to close time
+2024-06-18 01:55:15.894 +03:00 [ERR] user 120 tried to schedule an appointmant to close time
+2024-06-18 01:55:16.266 +03:00 [ERR] user 120 tried to schedule an appointmant to close time
+2024-06-18 01:55:28.811 +03:00 [ERR] user 120 tried to schedule an appointmant to close time
+2024-06-18 01:55:58.847 +03:00 [INF]  user 120 added an appointment to 17/07/2024 14:55:21
+2024-06-18 01:56:11.600 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 01:56:18.587 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:56:19.272 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:56:19.616 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:56:19.792 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:56:19.946 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:56:20.101 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:56:20.275 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:56:20.430 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:56:20.605 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:56:29.812 +03:00 [INF]  user 120 added an appointment to 17/08/2025 14:55:21
+2024-06-18 01:56:49.624 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 01:56:50.410 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 01:56:51.084 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 01:57:21.681 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:57:23.959 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:57:24.143 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:57:24.300 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:57:24.499 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:57:24.667 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:57:35.765 +03:00 [INF]  user 120 added an appointment to 17/09/2024 14:55:21
+2024-06-18 01:58:18.962 +03:00 [INF]  User 120 has logged in
+2024-06-18 01:58:26.056 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:58:32.085 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 01:58:44.679 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:58:46.377 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:58:46.981 +03:00 [ERR] user 120 tried to schedule an appointmant to close day
+2024-06-18 01:59:03.310 +03:00 [INF]  user 120 added an appointment to 22/08/2024 14:55:21
+2024-06-18 01:59:11.570 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 01:59:19.811 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 01:59:32.138 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 01:59:47.075 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 01:59:59.517 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 02:00:05.812 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 02:00:11.707 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 02:00:22.566 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 02:00:26.630 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 02:01:17.155 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 02:01:51.369 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 02:02:07.701 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 02:02:25.144 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 02:02:32.592 +03:00 [ERR] user 120 tried to schedule an appointmant for unavailable dateTime
+2024-06-18 02:02:39.980 +03:00 [INF]  user 120 added an appointment to 22/08/2024 15:36:52
+2024-06-18 02:11:42.059 +03:00 [INF]  User 120 has logged in
+2024-06-18 02:12:23.685 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 02:14:15.282 +03:00 [ERR] user 120 tried to schedule an appointmant to invalid dateTime
+2024-06-18 02:17:58.180 +03:00 [INF]  User 120 has logged in
+2024-06-18 02:19:05.428 +03:00 [INF] 120 delte appointment (arrivalTime: 22/08/2024 15:36:52

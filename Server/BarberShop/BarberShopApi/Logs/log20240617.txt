@@ -1,0 +1,15 @@
+2024-06-17 18:05:13.894 +03:00 [WRN]  SignUp process failed with statusCode 409 conflict - userName exist in the system 
+2024-06-17 18:08:13.350 +03:00 [INF]  user 120 joined to the system
+2024-06-17 18:09:17.748 +03:00 [INF] user logout process
+2024-06-17 18:42:42.942 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-17 18:42:56.262 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-17 19:27:14.534 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-17 21:04:18.976 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-17 21:05:00.087 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-17 21:17:30.328 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-17 21:17:35.427 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-17 21:17:53.886 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-17 21:17:59.457 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-17 21:18:41.849 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-17 21:18:46.431 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-17 21:33:19.499 +03:00 [INF]  GetAllAppointments process anded 

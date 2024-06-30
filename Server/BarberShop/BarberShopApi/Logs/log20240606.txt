@@ -1,0 +1,9 @@
+2024-06-06 21:26:45.904 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-06 22:08:32.241 +03:00 [WRN]  failed to log in with UserName Yael2142,  user does not exist 
+2024-06-06 22:09:09.984 +03:00 [INF]  user Yael joined to the system
+2024-06-06 22:18:49.390 +03:00 [INF]  User 100 has logged in
+2024-06-06 22:18:55.260 +03:00 [INF]  user 100 added an appointment to 06/06/2024 19:18:18
+2024-06-06 22:28:01.003 +03:00 [INF]  User 100 has logged in
+2024-06-06 22:28:07.346 +03:00 [INF]  user 100 added an appointment to 06/06/2024 19:28:05
+2024-06-06 22:29:06.546 +03:00 [INF]  user 100 added an appointment to 06/06/2024 19:29:04
+2024-06-06 23:27:12.474 +03:00 [INF]  User 100 has logged in

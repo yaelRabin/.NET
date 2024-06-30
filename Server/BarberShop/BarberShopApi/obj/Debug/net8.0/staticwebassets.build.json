@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M9QePpDzZ8iS4PzqU5Up25sc3vxrA7yXylHhT8RhzLU=",
+  "Source": "BarberShopApi",
+  "BasePath": "_content/BarberShopApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

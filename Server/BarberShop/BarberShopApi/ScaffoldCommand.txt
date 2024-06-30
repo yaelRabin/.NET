@@ -1,0 +1,1 @@
+Scaffold-DbContext 'Data Source=YAELAPTOP\SQLEXPRESS;Initial Catalog=BarberShop;Integrated Security=True;Trusted_Connection=True;TrustServerCertificate=True;'Microsoft.EntityFrameworkCore.SqlServer -OutputDir EF\Models -Project BarberShopDB -Context BarberShopContext -contextDir EF\Contexts -force

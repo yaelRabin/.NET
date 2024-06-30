@@ -1,0 +1,22 @@
+2024-06-20 01:48:08.032 +03:00 [INF]  User 100 has logged in
+2024-06-20 02:18:43.851 +03:00 [INF]  User 100 has logged in
+2024-06-20 02:19:30.072 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+2024-06-20 02:23:54.020 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+2024-06-20 02:25:51.964 +03:00 [INF] user 100 tried to delete/edit an appoinment that the dateTime has passed
+2024-06-20 02:26:08.331 +03:00 [WRN]  user 100 try to delete/edit  appointment that he does not own (appointmentID:200)
+2024-06-20 02:26:36.999 +03:00 [INF] 100 delte appointment (arrivalTime: 07/11/2024 19:29:30
+2024-06-20 03:24:03.433 +03:00 [INF] anonimos user tried to get all the appointments for user that not exist
+2024-06-20 03:24:52.567 +03:00 [INF] anonimos user tried to get all the appointments for user that not exist
+2024-06-20 03:25:36.858 +03:00 [INF] anonimos user tried to get all the appointments for user that not exist
+2024-06-20 16:18:51.054 +03:00 [INF]  GetAllAppointments process anded 
+2024-06-20 16:54:35.361 +03:00 [INF]  User 100 has logged in
+2024-06-20 16:57:47.925 +03:00 [ERR] user 100 tried to schedule an appointmant to invalid dateTime
+2024-06-20 16:58:38.675 +03:00 [INF]  user 100 added an appointment to 20/06/2024 18:56:51
+2024-06-20 17:05:14.929 +03:00 [ERR] user 100 tried to schedule an appointmant to invalid dateTime
+2024-06-20 17:15:13.571 +03:00 [ERR] user 100 tried to schedule an appointmant to invalid dateTime
+2024-06-20 17:25:36.557 +03:00 [WRN]  user Yael try to login with wrong password 
+2024-06-20 17:25:43.716 +03:00 [INF]  User 100 has logged in
+2024-06-20 17:26:00.137 +03:00 [ERR] user 100 tried to schedule an appointmant to invalid dateTime
+2024-06-20 17:27:23.579 +03:00 [ERR] user 100 tried to schedule an appointmant to invalid dateTime
+2024-06-20 17:31:41.597 +03:00 [INF] user 100 tried to delete/edit an appointment scheduled for today (appointmentId:215
+2024-06-20 17:31:54.846 +03:00 [INF]  GetAllAppointments process anded 
